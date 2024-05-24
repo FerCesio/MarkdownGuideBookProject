@@ -1,6 +1,9 @@
 # Simplemente C#
 # 0. Intro 
 El lenguaje de programación C# o también conocido como C++++ fue creado en abril de 1999 por Anders Hejlsberg quien formó un equipo con la misión de desarrollar un nuevo lenguaje orientado a objetos. 
+
+<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width=200px> 
+
 # 1.  Programación Orientada a Objetos (POO) 
 La Programación Orientada a Objetos (POO) es un paradigma de programación, es decir, un modelo o un estilo de programación que nos da unas guías sobre cómo trabajar con él. Se basa en el concepto de clases y objetos. Este tipo de programación se utiliza para estructurar un programa de software en piezas simples y reutilizables de planos de código (clases) para crear instancias individuales de objetos. 
 
@@ -13,6 +16,9 @@ La Programación Orientada a Objetos (POO) es un paradigma de programación, es 
 +  TypeScript, 
 + Smalltalk, 
 + PHP o Python
+
+<img src="https://softwareg.com.au/cdn/shop/articles/object-oriented-programming-languages.png?v=1707896590">
+
 
 # 2. Estructura
 ## Espacio de nombres (Namespace):
@@ -37,6 +43,8 @@ Puedes llamar a otros métodos, crear objetos, realizar operaciones y cualquier 
 
 # 3. Aplicaciones
 C# es un lenguaje de programación versátil que se utiliza en una amplia gama de aplicaciones, desde el desarrollo de aplicaciones de escritorio hasta aplicaciones web, juegos, aplicaciones móviles y más. Aquí tienes una descripción de algunas de las aplicaciones más comunes de C#:
+
+<img src="https://edteam-media.s3.amazonaws.com/blogs/original/0846b297-5141-4e04-ad95-b80608a8a907.png" width=500px>
 
 + Desarrollo de aplicaciones de escritorio:
 
@@ -69,3 +77,5 @@ C# es un lenguaje de programación versátil que se utiliza en una amplia gama d
 Con C# y las herramientas adecuadas, los desarrolladores pueden crear aplicaciones para controlar y monitorear dispositivos IoT, procesar datos de sensores, y más.
 
 Estas son solo algunas de las aplicaciones más comunes de C#, pero su versatilidad y potencia lo convierten en una opción popular para una amplia variedad de proyectos de desarrollo de software.
+
+<img src="https://frontdeskhelpers.com/es/wp-content/uploads/sites/2/2021/02/Desarrollo-de-aplicaciones-de-negocios-en-C.jpg">
